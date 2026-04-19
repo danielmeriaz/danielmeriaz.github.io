@@ -1,0 +1,26 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    /*position: relative;*/
+
+}
+
+.cdiv{
+    position: relative;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+.cdiv_no_margin{
+    display: flex; flex-direction: row; align-items: center; justify-content: center;
+}
+
+.big_text{
+    /*font-family:    Arial, Helvetica, sans-serif;*/
+    font-size:      30px;
+    font-weight:    bold;
+}
+
+.med_text{
+    font-size:      18px;
+    font-weight:    bold;
+}
+
