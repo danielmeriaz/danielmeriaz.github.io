@@ -14,10 +14,10 @@ body{
 }
 
 
-img {
-    width : 285px;
-    height: auto; /*to preserve the aspect ratio of the image*/
-}
+/*img {*/
+/*    width : 285px;*/
+/*    height: auto; !*to preserve the aspect ratio of the image*!*/
+/*}*/
 .big_text{
     /*font-family:    Arial, Helvetica, sans-serif;*/
     font-size:      30px;
@@ -28,5 +28,10 @@ img {
     font-size:      18px;
     font-weight:    bold;
     color: #C02F38;
+}
+
+.arxiv_logo{
+    width: 5%;
+    height: auto;
 }
 
